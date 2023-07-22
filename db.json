@@ -1,0 +1,39 @@
+{
+  "sanpham": [
+    {
+      "id": 1,
+      "ten": "Bột giặt",
+      "giaban": 3.89,
+      "ngaynhap": "2023-05-19",
+      "trangthai": true
+    },
+    {
+      "ten": "Coca-Cola chai 1.5L",
+      "giaban": "15000",
+      "ngaynhap": "2023-07-09",
+      "trangthai": false,
+      "id": 2
+    },
+    {
+      "ten": "Giầy da Bò nam",
+      "giaban": "1200000",
+      "ngaynhap": "2023-03-24",
+      "trangthai": true,
+      "id": 7
+    },
+    {
+      "ten": "Váy trễ vai nữ 2023",
+      "giaban": "1900000",
+      "ngaynhap": "2023-07-19",
+      "trangthai": true,
+      "id": 8
+    },
+    {
+      "ten": "Trà xanh không độ",
+      "giaban": "1500",
+      "ngaynhap": "2023-07-08",
+      "trangthai": true,
+      "id": 9
+    }
+  ]
+}
