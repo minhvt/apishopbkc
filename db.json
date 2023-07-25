@@ -1,4 +1,18 @@
 {
+  "danhmuc": [
+	{
+		"id": 1,
+		"ten": "Gia dụng"
+	},
+	{
+		"id": 2,
+		"ten": "Thực phẩm"
+	},
+	{
+		"id": 3,
+		"ten": "Thời trang"
+	}
+  ],
   "sanpham": [
     {
       "id": 1,
